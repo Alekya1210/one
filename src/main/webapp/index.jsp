@@ -15,9 +15,9 @@
     <h2 style="color:tomato; font-size: 40px;" align="center">Vtalent</h2>
      <h2 style="color:grey; font-size: 40px;" align="center">Dhatsol</h2>	
 
-<h2 style="color: black; font-size: 40px;" align="center">HI THIS IS AKHILA</h2>
-     <h2 style="color:violet; font-size: 40px;" align="center">Software</h2>
-     <h2 style="color:brown; font-size: 40px;" align="center">Engineer</h2>
+<h2 style="color:yellow; font-size: 40px;" align="center">HI THIS IS Devops Class</h2>
+     <h2 style="color:blue; font-size: 40px;" align="center">Master</h2>
+     <h2 style="color:pink; font-size: 40px;" align="center">Slaves</h2>
 	
 	
 	
