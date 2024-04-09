@@ -11,12 +11,13 @@
      <h2 style="color: voilet; font-size: 40px;" align="center">SOFTWARE ENINEER</h2>
      <h2 style="color: orange; font-size: 40px;" align="center">ALEKYA IS EXCELLENT AND INTELLIGENT</h2>
 	<h2 style="color: black; font-size: 40px;" align="center">WE INTEGRATED NEXUS WITH JENKINS</h2>
-	<h2 style="color: blue; font-size: 40px;" align="center">THIS IS NEXUS TOPIC</h2>
-      <h2 style="color: orange; font-size: 40px;" align="center">HI THIS IS AKHILA</h2>
-     <h2 style="color:violet; font-size: 40px;" align="center">DevOps Engineer</h2>
-     <h2 style="color:brown; font-size: 40px;" align="center">DevOps Engineer</h2>
+	<h2 style="color: blue; font-size: 40px;" align="center">THIS IS NEXUS TOPIC</h2>  
     <h2 style="color:tomato; font-size: 40px;" align="center">Vtalent</h2>
      <h2 style="color:grey; font-size: 40px;" align="center">Dhatsol</h2>	
+
+<h2 style="color: black; font-size: 40px;" align="center">HI THIS IS AKHILA</h2>
+     <h2 style="color:violet; font-size: 40px;" align="center">Software</h2>
+     <h2 style="color:brown; font-size: 40px;" align="center">Engineer</h2>
 	
 	
 	
